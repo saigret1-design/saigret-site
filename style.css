@@ -1,6 +1,11 @@
+.project {
+    margin-bottom: 40px;
+}
+
 .project img {
     width: 300px;  
     border-radius: 6px;
+    
   }
 
 body { 
@@ -11,8 +16,12 @@ body {
      }
                    
 
-h1,h2{ color: #e3e3e3}
+ h1,h2{
+     color: #e3e3e3
+    }
 
-
-
-       
+    .project h3{
+     color: #c2c2c2;
+     margin-top: 12px;
+     margin-bottom: 0px;
+    }
