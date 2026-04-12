@@ -1,1 +1,18 @@
-.project img {width: 300px;}
+.project img {
+    width: 300px;
+    border-radius: 6px;
+  }
+
+body { 
+      background-color: #3d3d3d;
+      color:#aeaeae;
+      margin: 40px; 
+      font-family: arial, sans-serif;
+     }
+                   
+
+h1,h2{ color: #e3e3e3}
+
+
+
+       
