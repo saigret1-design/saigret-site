@@ -5,8 +5,7 @@
 .project img {
     width: 300px;  
     border-radius: 6px;
-    
-  }
+     }
 
 body { 
       background-color: #3d3d3d;
@@ -24,4 +23,19 @@ body {
      color: #c2c2c2;
      margin-top: 12px;
      margin-bottom: 0px;
+    }
+
+    #portfolio{
+        display: flex;
+        flex-wrap: wrap;
+        gap: 30px;
+    }
+   
+     #portfolio h2{
+        width: 100%;
+    }
+     
+    .project{
+        margin-bottom: 0;
+        max-width: 300px;
     }
