@@ -43,3 +43,9 @@ body {
     .testimonial p{
         font-size: 16;
     }
+
+    .testimonial.author{
+        margin-top: 10px;
+        color: #9c9c9c;
+        font-size: 14px;
+    }
