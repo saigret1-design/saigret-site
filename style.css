@@ -50,3 +50,14 @@ body {
         color: #9c9c9c;
         font-size: 14px;
     }
+
+    .testimonial {
+        display: flex;
+        gap: 20px;
+        align-items: flex-start;
+    }
+    .testimonial img{
+        width: 50px;
+        border-radius: 6px;
+    }
+    
