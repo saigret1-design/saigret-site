@@ -59,5 +59,15 @@ body {
     .testimonial img{
         width: 50px;
         border-radius: 6px;
+        margin-right:10px;
     }
-    
+    #testimonials {
+        margin-top: 80px;
+    }
+
+    .testimonial {
+        max-width: 700px;
+    }
+    .testimonial p {
+        margin: 0;
+    }
