@@ -40,23 +40,23 @@ body {
         max-width: 300px;
     }
 
-    .testimonial p{
+    .testimonials p{
         font-size: 16;
         color: #b0b0b0
     }
 
-    .testimonial.author{
+    .testimonials.author{
         margin-top: 10px;
         color: #9c9c9c;
         font-size: 14px;
     }
 
-    .testimonial {
+    .testimonials {
         display: flex;
         gap: 20px;
         align-items: flex-start;
     }
-    .testimonial img{
+    .testimonials img{
         width: 50px;
         border-radius: 6px;
     }
