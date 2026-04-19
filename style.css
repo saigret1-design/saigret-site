@@ -5,7 +5,23 @@ body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
 }
+#hero {
+    position: relative;
+    padding: 80px 0;
+    overflow: hidden;
+}
 
+#hero::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background-image: url("Images/logo.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 400px;
+    opacity: 0.08;
+    pointer-events: none;
+}
 h1, h2 {
     color: #e3e3e3;
 }
